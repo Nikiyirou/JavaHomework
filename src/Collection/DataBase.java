@@ -32,7 +32,7 @@ class Employee{
     String firstName;
     String lastName;
     String birthDay;
-    public void Employee(String id, String firstName ,String lastName ,String birthDay) {
+    public Employee(String id, String firstName ,String lastName ,String birthDay) {
         this.id = id;
         this. firstName = firstName;
         this.lastName = lastName;
